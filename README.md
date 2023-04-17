@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning at **Information Technology Institute (ITI)** </br> 
 <p align="center">
+Advanced C# (Delegates,Events, LINQ)
 ASP.NET MVC Core</br>
-Entityframework</br>
-LINQ</br>
+Entity Framework</br>
 RESTful APIs</br>
 Angular</br>
 SQL</br>
