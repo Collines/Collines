@@ -5,14 +5,16 @@
 
 - 🌱 I’m currently learning at **Information Technology Institute (ITI)** </br> 
 <p align="center">
-Advanced C# (Delegates,Events, LINQ)
+Advanced C# (Delegates,Events, LINQ)</br>
 ASP.NET MVC Core</br>
 Entity Framework</br>
 RESTful APIs</br>
 Angular</br>
 SQL</br>
-WPF</br>
-Javascrip</br>HTML</br>Css
+WPF (Windows Presentation Foundation)</br>
+Javascript
+</br>HTML
+</br>Css
 </p>
 
 
