@@ -24,6 +24,8 @@ Javascript
 
 - 📫 How to reach me **mohammed.mido9719@gmail.com**
 
+- 👨‍💻 All of my projects are available at [pharaonicdev.com](pharaonicdev.com)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/mohamedsalah97" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="mohamedsalah97" height="30" width="40" /></a>
