@@ -24,7 +24,7 @@ Javascript
 
 - 📫 How to reach me **mohammed.mido9719@gmail.com**
 
-- 👨‍💻 All of my projects are available at [pharaonicdev.com](pharaonicdev.com)
+- 👨‍💻 All of my projects are available at [pharaonicdev.com](https://pharaonicdev.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
