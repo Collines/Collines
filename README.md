@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohamed Salah</h1>
 <h3 align="center">A passionate Software Engineer from Egypt</h3>
+<h3 align="center">Also known as PharaonicDev</h3>
 
 
-
-- 🌱 I’m currently learning at **Information Technology Institute (ITI)** </br> 
+- Graduated from **Information Technology Institute (ITI)** </br>
 <p align="center">
 Advanced C# (Delegates,Events, LINQ)</br>
 ASP.NET MVC Core</br>
