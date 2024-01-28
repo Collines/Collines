@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Software Engineer from Egypt</h3>
 
 
-- Graduated from **Information Technology Institute (ITI)** </br>
+-  Graduated from **Information Technology Institute (ITI)** </br>
 <p align="center">
 Advanced C# (Delegates,Events, LINQ)</br>
 ASP.NET MVC Core</br>
