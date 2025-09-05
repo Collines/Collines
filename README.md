@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Salah</h1>
-<h3 align="center">Also known as (MiDo & PharaonicDev)</h3>
+<h3 align="center">Also known as (MiDo & Collines)</h3>
 <h3 align="center">A passionate Software Engineer from Egypt</h3>
 
 
